@@ -12,7 +12,7 @@ The goal is to predict arrival delays of commercial flights. Often, there isn't 
 - **data_description.md**: when you need to look for any information regarding specific attributes in the data this is the file to look in.
 - **sample_submission.csv**: this file is the example of how the submission of the results should look like.
 
-### Data
+### Data 
 
 We will be working with data from air travel industry. We will have four separate tables:
 
